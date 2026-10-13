@@ -1,7 +1,7 @@
 # CueMic Privacy Policy
 
-The public privacy policy page for CueMic is available at:
+CueMic's website is available at:
 
 https://keimopl.github.io/cuemic-privacy/
 
-The policy text is also in [PRIVACY.md](PRIVACY.md).
+The privacy policy is available at https://keimopl.github.io/cuemic-privacy/privacy.html and in [PRIVACY.md](PRIVACY.md).

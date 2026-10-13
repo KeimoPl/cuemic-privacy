@@ -2,11 +2,11 @@
 
 **Last updated: October 13, 2026**
 
-CueMic is a Windows soundboard published by KEMO. This policy explains what the app does with information when you use it.
+CueMic is a Windows soundboard published by KeimoPl. This policy explains what the app does with information when you use it.
 
 ## Information stored on your PC
 
-CueMic does not require an account. Your imported sound files, sound names, cover images you upload, collections, and app preferences are stored locally on your PC. CueMic does not send this library or these preferences to KEMO.
+CueMic does not require an account. Your imported sound files, sound names, cover images you upload, collections, and app preferences are stored locally on your PC. CueMic does not send this library or these preferences to KeimoPl.
 
 ## Microphone and audio
 
@@ -24,7 +24,7 @@ CueMic can install the bundled VB-Audio VB-CABLE driver to provide virtual call 
 
 ## Data collection and sharing
 
-CueMic does not include advertising, analytics, an online account, or a CueMic service that collects or sells your personal information. The app does not send your sound library or microphone audio to KEMO. The Microsoft Store, Windows, your network provider, linked-image websites, and other apps you choose to use operate under their own policies.
+CueMic does not include advertising, analytics, an online account, or a CueMic service that collects or sells your personal information. The app does not send your sound library or microphone audio to KeimoPl. The Microsoft Store, Windows, your network provider, linked-image websites, and other apps you choose to use operate under their own policies.
 
 ## Your choices and deletion
 
